@@ -1,0 +1,12 @@
+G:\Visual Studio Programs\Visual Studio Xamarin\ArithOpersUsingGridLayout\ArithOpersUsingGridLayout\ArithOpersUsingGridLayout\bin\Debug\netstandard2.0\ArithOpersUsingGridLayout.deps.json
+G:\Visual Studio Programs\Visual Studio Xamarin\ArithOpersUsingGridLayout\ArithOpersUsingGridLayout\ArithOpersUsingGridLayout\bin\Debug\netstandard2.0\ArithOpersUsingGridLayout.dll
+G:\Visual Studio Programs\Visual Studio Xamarin\ArithOpersUsingGridLayout\ArithOpersUsingGridLayout\ArithOpersUsingGridLayout\bin\Debug\netstandard2.0\ArithOpersUsingGridLayout.pdb
+G:\Visual Studio Programs\Visual Studio Xamarin\ArithOpersUsingGridLayout\ArithOpersUsingGridLayout\ArithOpersUsingGridLayout\obj\Debug\netstandard2.0\ArithOpersUsingGridLayout.csprojAssemblyReference.cache
+G:\Visual Studio Programs\Visual Studio Xamarin\ArithOpersUsingGridLayout\ArithOpersUsingGridLayout\ArithOpersUsingGridLayout\obj\Debug\netstandard2.0\App.xaml.g.cs
+G:\Visual Studio Programs\Visual Studio Xamarin\ArithOpersUsingGridLayout\ArithOpersUsingGridLayout\ArithOpersUsingGridLayout\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+G:\Visual Studio Programs\Visual Studio Xamarin\ArithOpersUsingGridLayout\ArithOpersUsingGridLayout\ArithOpersUsingGridLayout\obj\Debug\netstandard2.0\ArithOpersUsingGridLayout.csproj.CoreCompileInputs.cache
+G:\Visual Studio Programs\Visual Studio Xamarin\ArithOpersUsingGridLayout\ArithOpersUsingGridLayout\ArithOpersUsingGridLayout\obj\Debug\netstandard2.0\ArithOpersUsingGridLayout.AssemblyInfoInputs.cache
+G:\Visual Studio Programs\Visual Studio Xamarin\ArithOpersUsingGridLayout\ArithOpersUsingGridLayout\ArithOpersUsingGridLayout\obj\Debug\netstandard2.0\ArithOpersUsingGridLayout.AssemblyInfo.cs
+G:\Visual Studio Programs\Visual Studio Xamarin\ArithOpersUsingGridLayout\ArithOpersUsingGridLayout\ArithOpersUsingGridLayout\obj\Debug\netstandard2.0\XamlC.stamp
+G:\Visual Studio Programs\Visual Studio Xamarin\ArithOpersUsingGridLayout\ArithOpersUsingGridLayout\ArithOpersUsingGridLayout\obj\Debug\netstandard2.0\ArithOpersUsingGridLayout.dll
+G:\Visual Studio Programs\Visual Studio Xamarin\ArithOpersUsingGridLayout\ArithOpersUsingGridLayout\ArithOpersUsingGridLayout\obj\Debug\netstandard2.0\ArithOpersUsingGridLayout.pdb
